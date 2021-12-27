@@ -1,0 +1,38 @@
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+    
+    
+    
+    }
+
+
+
+h1{
+    text-align: center;
+}
+p {
+    font-family: Tahoma, Verdana, sans-serif;
+    text-align:justify;
+}
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #45a4f3;
+    padding: 10px;}
+.ali{
+    padding:10px;
+}
+.mix{
+    padding-top:50px;
+}
+.head{
+    background-color: #1edddd;
+    text-align: center;
+    padding: 10px;
+
+}
+
+
+   
